@@ -9,7 +9,7 @@ You can use the tool to scan your WordPress site and get reports on vulnerabilit
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/scanwp.git
+   git clone https://github.com/tayfunurkut/scanwp.git
    cd scanwp
    go build .
 
