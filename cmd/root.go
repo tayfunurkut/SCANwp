@@ -32,7 +32,7 @@ var rootCmd = &cobra.Command{
 			    /_/			  
   
 Developed By Tayfun Ürkut
-Github: github.com/tayfun8				
+Github: github.com/tayfunurkut				
 `,
 	Example: "./scanwp -t http://test.com/ -w /path/to/wordlist -s",
 	Run: func(cmd *cobra.Command, args []string) {
